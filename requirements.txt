@@ -1,0 +1,7 @@
+pystyle
+pyautogui
+datetime
+time
+inputimeout
+shutil
+re
